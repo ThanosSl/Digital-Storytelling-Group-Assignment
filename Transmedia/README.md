@@ -179,6 +179,7 @@ the fact that this is either a pro-active or a retroactive transmedia story?
 9.3. Is this project closer to a transmedia franchise, a portmanteau transmedia story, or a
 complex transmedia experience?
 -
+
 9.4. Can each extension work as an independent entry point for the Story?
 Ναι, βοηθάει το ένα το άλλο.
 9.5. What are/were possible endpoints of the project?
