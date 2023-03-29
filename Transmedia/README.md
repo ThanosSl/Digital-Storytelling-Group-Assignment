@@ -187,7 +187,7 @@ complex transmedia experience?
 Organisation?
 Το project δημιουργήθηκε από 3 άτομα, που συνεργάστηκαν για την επίτευξή του.
 9.7. How could a map of the story-world be presented?
--
+Δεν υπάρχει κάποια απάντηση.
 
 * 10.Aesthetics
 10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the
