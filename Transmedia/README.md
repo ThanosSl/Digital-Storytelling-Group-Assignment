@@ -5,7 +5,7 @@
 ### University Registration Number: dpsd19113, dpsd19119, dpsd19120
 ### GitHub Personal Profile: https://github.com/ThanosSl/Digital-Storytelling-Group-Assignment
 
-* 1. Premise and purpose
+* 1.Premise and purpose
 * 1.1. What is the project about?
 Το project αφορά έναν νέο που προσπαθεί να κερδίσει έναν διαγωνισμό, έχοντας
 συγκεκριμένους όρους, με έπαθλο την συνάντηση με το ίνδαλμά του.
