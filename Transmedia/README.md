@@ -17,7 +17,7 @@
 market a product?
 Το project έχει ψυχαγωγικό ρόλο.
 
-* 2. Narrative
+* 2.Narrative
 * 2.1. What are the narrative elements (such as plot, theme, characters, etc.) of the project?
 Η πλοκή αφορά ένα φανατικό θαυμαστή ενός ποδοσφαιριστή που θα κάνει τα πάντα για να
 κερδίσει τον διαγωνισμό.
@@ -37,7 +37,7 @@ market a product?
 * 2.8. Is it possible to identify intermedial texts in the story?
 Ναι για την προσθήκη του κωμικού στοιχείου.
 
-* 3. Worldbuilding
+* 3.Worldbuilding
 * 3.1. When the story occurs?
 Η ιστορία εκτυλίσσεται στο παρόν.
 * 3.2. Which is the central world where the project is set?
@@ -56,7 +56,7 @@ market a product?
 * 3.7. Is the storyworld big enough to support expansions?
 Όχι, για την ώρα.
 
-* 4. Characters
+* 4.Characters
 * 4.1. Who are the primary and secondary characters of the story?
 Ο πρωταγωνιστής θα είναι το παιδί, που θα θέλει να κερδίσει τον διαγωνισμό, ο φίλος/οι
 που θα τον βοηθήσουν και θα τον εμψυχώνουν σε όλη την διαδικασία. Βέβαια υπάρχει
@@ -71,7 +71,7 @@ market a product?
 kind of role do they play (allies, adversaries, helper figures, etc.)?
 Όχι, έχουμε πραγματικούς χαρακτήρες
 
-* 5. Extensions
+* 5.Extensions
 * 5.1. How many extensions does the project have?
 Θα έχουμε και την δημιουργία ενός επιτραπέζιου, επιπλέον.
 * 5.2. Are the extensions adaptations (the intersemiotic translation from one system to
@@ -91,7 +91,7 @@ another) or expansions of the narrative through various media?
 possibility to explore the narrative in-depth?
 Όχι.
 
-* 6. Media platforms and genres
+* 6.Media platforms and genres
 * 6.1. What kind of media platforms (film, book, comics, games, and so forth) are involved in
 the project?
 Το project περιλαμβάνει μια ταινία μικρού μήκους και ένα επιτραπέζιο.
@@ -114,7 +114,7 @@ release the platforms?
 and so forth) are present in the project?
 Το κύριο είδος είναι το δράμα, με στοιχεία κωμωδίας.
 
-* 7. Audience and market
+* 7.Audience and market
 * 7.1. What is the target audience of the project? Who is the intended VUP?
 Το target audience είναι ηλικίας 9+. Προοριζόμενο κοινό 9-18.
 * 7.2. What kind of “viewers” (real-time,reflective, and navigational) does the project
@@ -133,7 +133,7 @@ attract?
 * 7.8. Revenue-wise, was the project successful? Why?
 Δεν είχε κάποιες εισπράξεις.
 
-* 8. Engagement
+* 8.Engagement
 * 8.1. Through what point of view (PoV) does the VUP experience this world: first-person,
 second-person, third-person, or a mixture of them?
 Μια μίξη των παραπάνω.
@@ -169,7 +169,7 @@ incorporate them into everyday life?
 * 8.14. Is there a system of rewards and penalties?
 Ναι, ή κερδίζει τον διαγωνισμό ή τον χάνει.
 
-* 9. Structure
+* 9.Structure
 * 9.1. When did the transmediation begin? Is it a proactive or retroactive TS
 project?
 Το project είναι προληπτικό.
@@ -189,7 +189,7 @@ Organisation?
 * 9.7. How could a map of the story-world be presented?
 -
 
-* 10. Aesthetics
+* 10.Aesthetics
 * 10.1. What kinds of visuals are being used (animation, video, graphics, a mix) in the
 project?
 Για την ταινία χρησιμοποιήθηκε βίντεο και μουσικά εφέ. Για το επιτραπέζιο, γραφική ύλη.
