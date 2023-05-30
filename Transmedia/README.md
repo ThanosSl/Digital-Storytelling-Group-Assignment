@@ -18,7 +18,7 @@
 
 1.3. Is it a fictional, a non-fiction or a mixed project?
 
-Το project δεν αποτελεί προϊόν μυθοπλασίας, αλλά μια πραγματική ιστορία.
+Το project αποτελεί προϊόν μυθοπλασίας.
 
 1.4. What is its fundamental purpose? Is it to entertain, to teach or to inform? Is it to
 market a product?
